@@ -12,7 +12,7 @@
         </header>
         <hr />
         <nav>
-            <a href="home.php"><span id="current">Home</span></a>
+            <a href="index.php"><span id="current">Home</span></a>
             <a href="ada.html">Ada Lovelace</a>
             <a href="bombe.html">Bombe</a>
             <a href="grace.html">Grace Hopper</a>
