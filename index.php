@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta char="utf-8"/>
+        <meta charset="utf-8"/>
         <title>Women in Computer Science</title>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
@@ -20,7 +20,7 @@
         <br /><br />
         <main>
             <figure>
-                <img src="img/homepage.png">
+                <img src="img/homepage.png" alt="home">
             </figure>
             <div>
                 <p>Since as early as he 19th century, women have been involved in what has evolved into the computer science field today.</p>
@@ -33,7 +33,7 @@
         </main>
        <footer>
             <hr>
-            CST336 Internet Programming. 2020&copy Stephens <br />
+            CST336 Internet Programming. 2020&copy; Stephens <br />
             <div>
                 References<br />
                 <ol>
